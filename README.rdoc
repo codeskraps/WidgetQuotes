@@ -1,4 +1,4 @@
-= GMIT - Energy App
+= Widges Quotes
 
 * <b>Homepage:</b>
 * <b>Git:</b> https://github.com/091labs/WidgetQuotes
